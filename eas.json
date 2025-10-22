@@ -17,7 +17,7 @@
     "production": {
       "autoIncrement": true,
       "android": {
-        "buildType": "aab"   // 👈 Keep AAB for Play Store release
+        "buildType": "app-bundle"   // 👈 Keep AAB for Play Store release
       }
     }
   },
